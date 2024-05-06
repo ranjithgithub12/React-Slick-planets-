@@ -1,0 +1,27 @@
+.planet-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.planet-heading {
+  color: #05acff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.image-width {
+  width: 300px;
+}
+.plant-name {
+  color: #f8fafc;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.plant-description{
+  color: #f8fafc;
+  font-size: 20px;
+  font-family: "Roboto";
+  text-align: center;
+}
